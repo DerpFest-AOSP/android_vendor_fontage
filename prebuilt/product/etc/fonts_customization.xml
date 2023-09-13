@@ -1876,5 +1876,45 @@
     </family>
     <alias name="GoogleSansFlexRegular-medium" to="GoogleSansFlexRegular" weight="500" />
     <alias name="GoogleSansFlexRegular-bold" to="GoogleSansFlexRegular" weight="700" />
-    
+
+    <!-- Chirp -->
+    <family customizationType="new-named-family" name="chirp">
+        <font weight="400" style="normal">Chirp.ttf</font>
+    </family>
+    <alias name="chirp-medium" to="chirp" weight="500" />
+    <alias name="chirp-semi-bold" to="chirp" weight="600" />
+    <alias name="chirp-bold" to="chirp" weight="700" />
+
+    <!-- Circe Rounded Alt Bold -->
+    <family customizationType="new-named-family" name="circe">
+        <font weight="400" style="normal">Circe.ttf</font>
+    </family>
+    <alias name="circe-medium" to="circe" weight="500" />
+    <alias name="circe-semi-bold" to="circe" weight="600" />
+    <alias name="circe-bold" to="circe" weight="700" />
+
+    <!-- Euclid Circular A -->
+    <family customizationType="new-named-family" name="euclid">
+        <font weight="400" style="normal">Euclid.ttf</font>
+    </family>
+    <alias name="euclid-medium" to="euclid" weight="500" />
+    <alias name="euclid-semi-bold" to="euclid" weight="600" />
+    <alias name="euclid-bold" to="euclid" weight="700" />
+
+    <!-- Fluid -->
+    <family customizationType="new-named-family" name="fluid">
+        <font weight="400" style="normal">Fluid.ttf</font>
+    </family>
+    <alias name="fluid-medium" to="fluid" weight="500" />
+    <alias name="fluid-semi-bold" to="fluid" weight="600" />
+    <alias name="fluid-bold" to="fluid" weight="700" />
+
+    <!-- SF Pro -->
+    <family customizationType="new-named-family" name="sfpro">
+        <font weight="400" style="normal">SFPro.ttf</font>
+    </family>
+    <alias name="sfpro-medium" to="sfpro" weight="500" />
+    <alias name="sfpro-semi-bold" to="sfpro" weight="600" />
+    <alias name="sfpro-bold" to="sfpro" weight="700" />
+
 </fonts-modification>
