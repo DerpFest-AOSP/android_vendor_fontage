@@ -1532,6 +1532,19 @@
   <alias name="storopia-semi-bold" to="storopia" weight="600" />
   <alias name="storopia-bold" to="storopia" weight="700" />
 
+  <!-- Anaheim -->
+  <family customizationType="new-named-family" name="anaheim">
+      <font weight="400" style="normal">Anaheim-Regular.ttf</font>
+      <font weight="500" style="normal">Anaheim-Medium.ttf</font>
+      <font weight="600" style="normal">Anaheim-SemiBold.ttf</font>
+      <font weight="700" style="normal">Anaheim-Bold.ttf</font>
+      <font weight="800" style="normal">Anaheim-ExtraBold.ttf</font>
+  </family>
+  <alias name="anaheim-medium" to="anaheim" weight="500" />
+  <alias name="anaheim-semi-bold" to="anaheim" weight="600" />
+  <alias name="anaheim-bold" to="anaheim" weight="700" />
+  <alias name="anaheim-extra-bold" to="anaheim" weight="800" />
+
     <family customizationType="new-named-family" name="zerofour">
         <font weight="300" style="normal">ZeroFour.ttf</font>
     </family>
