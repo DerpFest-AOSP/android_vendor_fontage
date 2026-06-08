@@ -1122,6 +1122,52 @@
     </family>
     <alias name="op-sans-medium" to="op-sans" weight="500" />
 
+    <!-- Ubuntu Sans -->
+    <family customizationType="new-named-family" name="ubuntu-sans">
+      <font weight="100" style="normal">UbuntuSans-Regular.ttf
+        <axis tag="wght" stylevalue="100" />
+      </font>
+      <font weight="300" style="normal">UbuntuSans-Regular.ttf
+        <axis tag="wght" stylevalue="250" />
+      </font>
+      <font weight="400" style="normal">UbuntuSans-Regular.ttf
+        <axis tag="wght" stylevalue="400" />
+      </font>
+      <font weight="500" style="normal">UbuntuSans-Regular.ttf
+        <axis tag="wght" stylevalue="550" />
+      </font>
+      <font weight="700" style="normal">UbuntuSans-Regular.ttf
+        <axis tag="wght" stylevalue="750" />
+      </font>
+      <font weight="900" style="normal">UbuntuSans-Regular.ttf
+        <axis tag="wght" stylevalue="900" />
+      </font>
+    </family>
+    <alias name="ubuntu-sans-medium" to="ubuntu-sans" weight="500" />
+
+    <!-- Ubuntu Sans Mono -->
+    <family customizationType="new-named-family" name="ubuntu-sans-mono">
+      <font weight="100" style="normal">UbuntuSansMono-Regular.ttf
+        <axis tag="wght" stylevalue="100" />
+      </font>
+      <font weight="300" style="normal">UbuntuSansMono-Regular.ttf
+        <axis tag="wght" stylevalue="250" />
+      </font>
+      <font weight="400" style="normal">UbuntuSansMono-Regular.ttf
+        <axis tag="wght" stylevalue="400" />
+      </font>
+      <font weight="500" style="normal">UbuntuSansMono-Regular.ttf
+        <axis tag="wght" stylevalue="550" />
+      </font>
+      <font weight="700" style="normal">UbuntuSansMono-Regular.ttf
+        <axis tag="wght" stylevalue="750" />
+      </font>
+      <font weight="900" style="normal">UbuntuSansMono-Regular.ttf
+        <axis tag="wght" stylevalue="900" />
+      </font>
+    </family>
+    <alias name="ubuntu-sans-mono-medium" to="ubuntu-sans-mono" weight="500" />
+
     <!-- JetBrains Mono -->
     <family customizationType="new-named-family" name="jb-mono">
       <font weight="100" style="normal">JetBrainsMono-Regular.ttf

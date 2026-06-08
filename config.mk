@@ -161,4 +161,6 @@ PRODUCT_PACKAGES += \
     ClockFontIOSOverlay \
     ClockFontHerculesOverlay \
     ClockFontSlimOverlay \
-    ClockFontJetBrainsMonoOverlay
+    ClockFontJetBrainsMonoOverlay \
+    ClockFontUbuntuSansOverlay \
+    ClockFontUbuntuSansMonoOverlay
