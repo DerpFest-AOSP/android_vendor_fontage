@@ -1917,4 +1917,159 @@
     <alias name="sfpro-semi-bold" to="sfpro" weight="600" />
     <alias name="sfpro-bold" to="sfpro" weight="700" />
 
+    <!-- Calibri -->
+    <family customizationType="new-named-family" name="calibri">
+        <font weight="400" style="normal">Calibri.ttf</font>
+    </family>
+    <alias name="calibri-medium" to="calibri" weight="500" />
+    <alias name="calibri-semi-bold" to="calibri" weight="600" />
+    <alias name="calibri-bold" to="calibri" weight="700" />
+
+    <!-- Cocon Next -->
+    <family customizationType="new-named-family" name="coconnext">
+        <font weight="400" style="normal">CoconNext.ttf</font>
+    </family>
+    <alias name="coconnext-medium" to="coconnext" weight="500" />
+    <alias name="coconnext-semi-bold" to="coconnext" weight="600" />
+    <alias name="coconnext-bold" to="coconnext" weight="700" />
+
+    <!-- CyberPunk -->
+    <family customizationType="new-named-family" name="cyberpunk">
+        <font weight="400" style="normal">CyberPunk.ttf</font>
+    </family>
+    <alias name="cyberpunk-medium" to="cyberpunk" weight="500" />
+    <alias name="cyberpunk-semi-bold" to="cyberpunk" weight="600" />
+    <alias name="cyberpunk-bold" to="cyberpunk" weight="700" />
+
+    <!-- Dyna -->
+    <family customizationType="new-named-family" name="dyna">
+        <font weight="400" style="normal">Dyna.ttf</font>
+    </family>
+    <alias name="dyna-medium" to="dyna" weight="500" />
+    <alias name="dyna-semi-bold" to="dyna" weight="600" />
+    <alias name="dyna-bold" to="dyna" weight="700" />
+
+    <!-- Josefin Sans -->
+    <family customizationType="new-named-family" name="josefinsans">
+        <font weight="400" style="normal">JosefinSans.ttf</font>
+    </family>
+    <alias name="josefinsans-medium" to="josefinsans" weight="500" />
+    <alias name="josefinsans-semi-bold" to="josefinsans" weight="600" />
+    <alias name="josefinsans-bold" to="josefinsans" weight="700" />
+
+    <!-- Kometa -->
+    <family customizationType="new-named-family" name="kometa">
+        <font weight="400" style="normal">Kometa.ttf</font>
+    </family>
+    <alias name="kometa-medium" to="kometa" weight="500" />
+    <alias name="kometa-semi-bold" to="kometa" weight="600" />
+    <alias name="kometa-bold" to="kometa" weight="700" />
+
+    <!-- Made Evo Sans -->
+    <family customizationType="new-named-family" name="madeevo">
+        <font weight="400" style="normal">MadeEvo.ttf</font>
+    </family>
+    <alias name="madeevo-medium" to="madeevo" weight="500" />
+    <alias name="madeevo-semi-bold" to="madeevo" weight="600" />
+    <alias name="madeevo-bold" to="madeevo" weight="700" />
+
+    <!-- Madefor -->
+    <family customizationType="new-named-family" name="madefor">
+        <font weight="400" style="normal">Madefor.ttf</font>
+    </family>
+    <alias name="madefor-medium" to="madefor" weight="500" />
+    <alias name="madefor-semi-bold" to="madefor" weight="600" />
+    <alias name="madefor-bold" to="madefor" weight="700" />
+
+    <!-- Mi Sans -->
+    <family customizationType="new-named-family" name="misans">
+        <font weight="400" style="normal">MiSans.otf</font>
+    </family>
+    <alias name="misans-medium" to="misans" weight="500" />
+    <alias name="misans-semi-bold" to="misans" weight="600" />
+    <alias name="misans-bold" to="misans" weight="700" />
+
+    <!-- Myriad Pro -->
+    <family customizationType="new-named-family" name="myriad">
+        <font weight="400" style="normal">Myriad.ttf</font>
+    </family>
+    <alias name="myriad-medium" to="myriad" weight="500" />
+    <alias name="myriad-semi-bold" to="myriad" weight="600" />
+    <alias name="myriad-bold" to="myriad" weight="700" />
+
+    <!-- Nimbus Sans -->
+    <family customizationType="new-named-family" name="nimbus">
+        <font weight="400" style="normal">Nimbus.ttf</font>
+    </family>
+    <alias name="nimbus-medium" to="nimbus" weight="500" />
+    <alias name="nimbus-semi-bold" to="nimbus" weight="600" />
+    <alias name="nimbus-bold" to="nimbus" weight="700" />
+
+    <!-- Quicksand -->
+    <family customizationType="new-named-family" name="quicksand">
+        <font weight="400" style="normal">Quicksand.ttf</font>
+    </family>
+    <alias name="quicksand-medium" to="quicksand" weight="500" />
+    <alias name="quicksand-semi-bold" to="quicksand" weight="600" />
+    <alias name="quicksand-bold" to="quicksand" weight="700" />
+
+    <!-- SF Pro Display -->
+    <family customizationType="new-named-family" name="sfpro-display">
+        <font weight="400" style="normal">SFProDisplay.ttf</font>
+    </family>
+    <alias name="sfpro-display-medium" to="sfpro-display" weight="500" />
+    <alias name="sfpro-display-semi-bold" to="sfpro-display" weight="600" />
+    <alias name="sfpro-display-bold" to="sfpro-display" weight="700" />
+
+    <!-- Segoe UI Variable -->
+    <family customizationType="new-named-family" name="segoe">
+        <font weight="300" style="normal">Segoe.ttf
+            <axis tag="wght" stylevalue="300" />
+            <axis tag="opsz" stylevalue="14" />
+        </font>
+        <font weight="400" style="normal">Segoe.ttf
+            <axis tag="wght" stylevalue="400" />
+            <axis tag="opsz" stylevalue="14" />
+        </font>
+        <font weight="500" style="normal">Segoe.ttf
+            <axis tag="wght" stylevalue="500" />
+            <axis tag="opsz" stylevalue="14" />
+        </font>
+        <font weight="600" style="normal">Segoe.ttf
+            <axis tag="wght" stylevalue="600" />
+            <axis tag="opsz" stylevalue="14" />
+        </font>
+        <font weight="700" style="normal">Segoe.ttf
+            <axis tag="wght" stylevalue="700" />
+            <axis tag="opsz" stylevalue="14" />
+        </font>
+    </family>
+    <alias name="segoe-medium" to="segoe" weight="500" />
+    <alias name="segoe-semi-bold" to="segoe" weight="600" />
+    <alias name="segoe-bold" to="segoe" weight="700" />
+
+    <!-- Space Grotesk -->
+    <family customizationType="new-named-family" name="spacegrotesk">
+        <font weight="400" style="normal">SpaceGrotesk.ttf</font>
+    </family>
+    <alias name="spacegrotesk-medium" to="spacegrotesk" weight="500" />
+    <alias name="spacegrotesk-semi-bold" to="spacegrotesk" weight="600" />
+    <alias name="spacegrotesk-bold" to="spacegrotesk" weight="700" />
+
+    <!-- Trebuchet MS -->
+    <family customizationType="new-named-family" name="trebuchet">
+        <font weight="400" style="normal">Trebuchet.ttf</font>
+    </family>
+    <alias name="trebuchet-medium" to="trebuchet" weight="500" />
+    <alias name="trebuchet-semi-bold" to="trebuchet" weight="600" />
+    <alias name="trebuchet-bold" to="trebuchet" weight="700" />
+
+    <!-- Tsanjer Jinkai -->
+    <family customizationType="new-named-family" name="tsanjerjinkai">
+        <font weight="400" style="normal">TsanjerJinkai.ttf</font>
+    </family>
+    <alias name="tsanjerjinkai-medium" to="tsanjerjinkai" weight="500" />
+    <alias name="tsanjerjinkai-semi-bold" to="tsanjerjinkai" weight="600" />
+    <alias name="tsanjerjinkai-bold" to="tsanjerjinkai" weight="700" />
+
 </fonts-modification>
