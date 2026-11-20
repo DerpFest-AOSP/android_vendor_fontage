@@ -23,7 +23,6 @@ PRODUCT_PACKAGES += \
     FontGothamonoOverlay \
     FontGravityOverlay \
     FontIgnazioTextOverlay \
-    FontInterOverlay \
     FontJakartaPlusOverlay \
     FontLeagueMonoNarrowOverlay \
     FontLeonSansOverlay \
