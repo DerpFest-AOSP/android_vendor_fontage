@@ -140,7 +140,6 @@ PRODUCT_PACKAGES += \
     ClockFontQuickSouthOverlay \
     ClockFontREMPONKOverlay \
     ClockFontRomantiquesOverlay \
-    ClockFontScrapItUpOverlay \
     ClockFontSpaceGameOverlay \
     ClockFontTH3MACHINEOverlay \
     ClockFontVTKSDURA3dOverlay \
@@ -161,7 +160,6 @@ PRODUCT_PACKAGES += \
     ClockFontFuturrOverlay \
     ClockFontLowerAtmosphereOverlay \
     ClockFontMonbijouxClownpieceOverlay \
-    ClockFontRoundheadsOverlay \
     ClockFontNewYork-HeavyOverlay \
     ClockFontNewYork-SemiboldOverlay \
     ClockFontIOSOverlay \
