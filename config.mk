@@ -7,6 +7,13 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/prebuilt/pro
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/product/etc/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
 
+# Arvo is built into /system/fonts. Custom families are loaded from /product/fonts.
+PRODUCT_COPY_FILES += \
+    external/google-fonts/arvo/Arvo-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Arvo-Regular.ttf \
+    external/google-fonts/arvo/Arvo-Italic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Arvo-Italic.ttf \
+    external/google-fonts/arvo/Arvo-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Arvo-Bold.ttf \
+    external/google-fonts/arvo/Arvo-BoldItalic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Arvo-BoldItalic.ttf
+
 # Fonts required overlays packages
 PRODUCT_PACKAGES += \
     FontAtkinsonOverlay \

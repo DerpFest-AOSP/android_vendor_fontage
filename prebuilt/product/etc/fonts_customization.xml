@@ -1346,6 +1346,14 @@
     <font weight="400" style="normal">ArbutusSlab-Regular.ttf</font>
   </family>
 
+  <family customizationType="new-named-family" name="arvo">
+    <font weight="400" style="normal">Arvo-Regular.ttf</font>
+    <font weight="400" style="italic">Arvo-Italic.ttf</font>
+    <font weight="700" style="normal">Arvo-Bold.ttf</font>
+    <font weight="700" style="italic">Arvo-BoldItalic.ttf</font>
+  </family>
+  <alias name="arvo-bold" to="arvo" weight="700" />
+
   <family customizationType="new-named-family" name="lato">
     <font weight="400" style="normal">Lato-Regular.ttf</font>
     <font weight="400" style="italic">Lato-Italic.ttf</font>
