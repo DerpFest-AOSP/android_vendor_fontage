@@ -109,6 +109,12 @@
     <family customizationType="new-named-family" name="adventpro">
         <font weight="300" style="normal">AdventPro-Regular.ttf</font>
     </family>
+    <family customizationType="new-named-family" name="dotcom">
+        <font weight="300" style="normal">Dotcom.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="v5prophit">
+        <font weight="300" style="normal">V5PRF.ttf</font>
+    </family>
     <family customizationType="new-named-family" name="bariol-reg">
         <font weight="300" style="normal">Bariol-Regular.ttf</font>
     </family>
