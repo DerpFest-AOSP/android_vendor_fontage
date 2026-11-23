@@ -149,12 +149,6 @@
     <family customizationType="new-named-family" name="gravity-regular">
         <font weight="300" style="normal">Gravity-Regular.ttf</font>
     </family>
-    <family customizationType="new-named-family" name="inter-regular">
-        <font weight="300" style="normal">Inter-Regular.ttf</font>
-    </family>
-    <family customizationType="new-named-family" name="inter-medium-italic">
-        <font weight="300" style="normal">Inter-MediumItalic.ttf</font>
-    </family>
     <family customizationType="new-named-family" name="league-mono-n-regular">
         <font weight="300" style="normal">LeagueMono-RegularNarrow.ttf</font>
     </family>
