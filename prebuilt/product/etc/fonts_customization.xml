@@ -1373,6 +1373,14 @@
         <axis tag="wght" stylevalue="100"/>
         <axis tag="opsz" stylevalue="32"/>
     </font>
+    <font weight="200" style="normal">InterVariable.ttf
+        <axis tag="wght" stylevalue="200"/>
+        <axis tag="opsz" stylevalue="32"/>
+    </font>
+    <font weight="200" style="italic">InterVariable-Italic.ttf
+        <axis tag="wght" stylevalue="200"/>
+        <axis tag="opsz" stylevalue="32"/>
+    </font>
     <font weight="300" style="normal">InterVariable.ttf
         <axis tag="wght" stylevalue="300"/>
         <axis tag="opsz" stylevalue="32"/>
@@ -1397,12 +1405,28 @@
         <axis tag="wght" stylevalue="500"/>
         <axis tag="opsz" stylevalue="32"/>
     </font>
+    <font weight="600" style="normal">InterVariable.ttf
+        <axis tag="wght" stylevalue="600"/>
+        <axis tag="opsz" stylevalue="32"/>
+    </font>
+    <font weight="600" style="italic">InterVariable-Italic.ttf
+        <axis tag="wght" stylevalue="600"/>
+        <axis tag="opsz" stylevalue="32"/>
+    </font>
     <font weight="700" style="normal">InterVariable.ttf
         <axis tag="wght" stylevalue="700"/>
         <axis tag="opsz" stylevalue="32"/>
     </font>
     <font weight="700" style="italic">InterVariable-Italic.ttf
         <axis tag="wght" stylevalue="700"/>
+        <axis tag="opsz" stylevalue="32"/>
+    </font>
+    <font weight="800" style="normal">InterVariable.ttf
+        <axis tag="wght" stylevalue="800"/>
+        <axis tag="opsz" stylevalue="32"/>
+    </font>
+    <font weight="800" style="italic">InterVariable-Italic.ttf
+        <axis tag="wght" stylevalue="800"/>
         <axis tag="opsz" stylevalue="32"/>
     </font>
     <font weight="900" style="normal">InterVariable.ttf
@@ -1425,6 +1449,14 @@
         <axis tag="wght" stylevalue="100"/>
         <axis tag="opsz" stylevalue="14"/>
     </font>
+    <font weight="200" style="normal">InterVariable.ttf
+        <axis tag="wght" stylevalue="200"/>
+        <axis tag="opsz" stylevalue="14"/>
+    </font>
+    <font weight="200" style="italic">InterVariable-Italic.ttf
+        <axis tag="wght" stylevalue="200"/>
+        <axis tag="opsz" stylevalue="14"/>
+    </font>
     <font weight="300" style="normal">InterVariable.ttf
         <axis tag="wght" stylevalue="300"/>
         <axis tag="opsz" stylevalue="14"/>
@@ -1449,12 +1481,28 @@
         <axis tag="wght" stylevalue="500"/>
         <axis tag="opsz" stylevalue="14"/>
     </font>
+    <font weight="600" style="normal">InterVariable.ttf
+        <axis tag="wght" stylevalue="600"/>
+        <axis tag="opsz" stylevalue="14"/>
+    </font>
+    <font weight="600" style="italic">InterVariable-Italic.ttf
+        <axis tag="wght" stylevalue="600"/>
+        <axis tag="opsz" stylevalue="14"/>
+    </font>
     <font weight="700" style="normal">InterVariable.ttf
         <axis tag="wght" stylevalue="700"/>
         <axis tag="opsz" stylevalue="14"/>
     </font>
     <font weight="700" style="italic">InterVariable-Italic.ttf
         <axis tag="wght" stylevalue="700"/>
+        <axis tag="opsz" stylevalue="14"/>
+    </font>
+    <font weight="800" style="normal">InterVariable.ttf
+        <axis tag="wght" stylevalue="800"/>
+        <axis tag="opsz" stylevalue="14"/>
+    </font>
+    <font weight="800" style="italic">InterVariable-Italic.ttf
+        <axis tag="wght" stylevalue="800"/>
         <axis tag="opsz" stylevalue="14"/>
     </font>
     <font weight="900" style="normal">InterVariable.ttf
